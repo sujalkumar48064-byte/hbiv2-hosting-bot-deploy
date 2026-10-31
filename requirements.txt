@@ -5,3 +5,4 @@ Flask>=2.2
 aiohttp>=3.8
 pymysql>=1.1
 cryptography>=41
+Pillow>=9.0
